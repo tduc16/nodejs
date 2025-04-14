@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-zerp",
+  "version": "1.0.0",
+  "description": "intern developer",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sever.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
